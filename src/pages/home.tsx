@@ -4,8 +4,8 @@ import EventCard from "../components/eventCard";
 export default function Home() {
   return (
     <div>
-      <div className="bg-sky-500 p-4">
-        <h1 className="text-3xl font-bold underline">Home</h1>
+      <div className="bg-sky-500 p-4 justify-center text-center">
+        <h1 className="text-3xl font-bold">Home</h1>
       </div>
 
       <div>
